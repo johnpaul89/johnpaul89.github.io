@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning/ Spatial Analytics With python
 
-[Project 1 Title](/sample_page)
+[Eurosat Land Use and Land Cover Classification Using Deep Learning](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
