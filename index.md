@@ -4,9 +4,11 @@
 
 ### Machine Learning/ Spatial Analytics With python
 
-[Eurosat Land Use and Land Cover Classification Using Deep Learning](/pdf/Eurosat Land Use and Land Cover Classification Using Deep Learning.pdf)
+[Eurosat Land Use and Land Cover Classification Using Deep Learning](/pdf/Eurosat_Land_Use_and_Land_Cover_Classification_Using_Deep_Learning.pdf)
 
-<img src="pdf/Eurosat Land Use and Land Cover Classification Using Deep Learning.pdf?raw=true"/>
+<img src="images/Land_Use_and_Land_Cover_Classification.png?raw=true"/>
+
+##### Skill used: Python, Keras, CNN, VGG16
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
