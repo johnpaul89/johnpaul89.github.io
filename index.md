@@ -4,8 +4,9 @@
 
 ### Machine Learning/ Spatial Analytics With python
 
-[Eurosat Land Use and Land Cover Classification Using Deep Learning](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Eurosat Land Use and Land Cover Classification Using Deep Learning](/pdf/Eurosat Land Use and Land Cover Classification Using Deep Learning.pdf)
+
+<img src="pdf/Eurosat Land Use and Land Cover Classification Using Deep Learning.pdf?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
