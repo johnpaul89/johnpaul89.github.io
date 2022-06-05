@@ -11,7 +11,7 @@
 ##### Skill used: Python, Keras, CNN, VGG16
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Gentrification Prediction in Philadelphia](pdf/gentrification-prediction-in-philadelphia.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
