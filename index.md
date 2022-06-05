@@ -8,11 +8,13 @@
 
 <img src="images/Land_Use_and_Land_Cover_Classification.png?raw=true"/>
 
-##### Skill used: Python, Keras, CNN, VGG16
+#### Skill used: Python, Keras, CNN, VGG16
 
 ---
 [Gentrification Prediction in Philadelphia](pdf/gentrification-prediction-in-philadelphia.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/gentrification in philadelphia.png?raw=true"/>
+
+#### Skill used: R, Poisson Regression
 
 ---
 [Project 3 Title](http://example.com/)
