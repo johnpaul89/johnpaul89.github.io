@@ -4,7 +4,7 @@
 
 ### Machine Learning/ Spatial Analytics With python
 
-[Eurosat Land Use and Land Cover Classification Using Deep Learning](/pdf/Eurosat_Land_Use_and_Land_Cover_Classification_Using_Deep_Learning.pdf)
+### [Eurosat Land Use and Land Cover Classification Using Deep Learning](/pdf/Eurosat_Land_Use_and_Land_Cover_Classification_Using_Deep_Learning.pdf)
 
 <img src="images/Land_Use_and_Land_Cover_Classification.png?raw=true"/>
 
@@ -13,12 +13,12 @@
 ---
 
 ### Machine Learning/ Spatial Analytics with R
-[Gentrification Prediction in Philadelphia](pdf/gentrification-prediction-in-philadelphia.html)
+### [Gentrification Prediction in Philadelphia](pdf/gentrification-prediction-in-philadelphia.html)
 <img src="images/gentrification in philadelphia.png?raw=true"/>
 
 #### Skill used: R, Poisson Regression
 
-[Space Time Prediction - Re-balancing Bike Demands](pdf/space-time-prediction-re-balancing-bike-demands.html)
+### [Space Time Prediction - Re-balancing Bike Demands](pdf/space-time-prediction-re-balancing-bike-demands.html)
 <img src="images/bike share trips per hr by station.png?raw=true"/>
 
 #### Skill used: R, Linear Regressions
@@ -26,7 +26,7 @@
 
 ### Spatial Analytics with Google Earth Engine
 
-[Mapping Lake Naivasha Expansion Using Google Earth Engine](pdf/Environmental_Change_of_Lake_Naivasha_and_its_Surrounding_Areas-merged.pdf)
+### [Mapping Lake Naivasha Expansion Using Google Earth Engine](pdf/Environmental_Change_of_Lake_Naivasha_and_its_Surrounding_Areas-merged.pdf)
 <img src="images/Env_Change_Across_Great_Rift_Valley_Lakes.png?raw=true"/>
 
 #### Skill used: Python, geemap, ee
