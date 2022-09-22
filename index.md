@@ -13,15 +13,17 @@
 ---
 
 ### Machine Learning/ Spatial Analytics with R
-### [Gentrification Prediction in Philadelphia](pdf/gentrification-prediction-in-philadelphia.html)
-<img src="images/gentrification in philadelphia.png?raw=true"/>
-
-#### Skill used: R, Poisson Regression
 
 ### [Space Time Prediction - Re-balancing Bike Demands](pdf/space-time-prediction-re-balancing-bike-demands.html)
 <img src="images/bike share trips per hr by station.png?raw=true"/>
 
 #### Skill used: R, Linear Regressions
+
+
+### [Gentrification Prediction in Philadelphia](pdf/gentrification-prediction-in-philadelphia.html)
+<img src="images/gentrification in philadelphia.png?raw=true"/>
+
+#### Skill used: R, Poisson Regression
 ---
 
 ### Spatial Analytics with Google Earth Engine
