@@ -35,19 +35,21 @@
 
 ---
 
-### Category Name 2
+### Skills and technical expertise
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+- **Geospatial Analytics:** ESRI GIS Software Suite (raster and vector), ArcPy, Google Earth Engine, Environmental Modeling, QGIS
+- **Programming Languages:** R, Python, JavaScript, HTML, ReactJS, Git, OpenStreetMaps
+- **Statistical Analysis:** Machine learning (supervised and unsupervised), Predictive Modeling in R, Spatial Statistics
+- **Data Visualization:** HTML/CSS, Mapbox, Carto, ArcGIS API, Adobe Suite, Seaborn, Matplotlib, Altair (Python)
+- **Web Development:** Carto, JavaScript, Python for Web Development (panel, folium, flask)
+- **Satellite Imagery/ Remote Sensing:** ArcGIS Spatial Analytics Toolbox, Python image processing
+- **Environmental Science:** Climate Change Concepts
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
+
+
+
+---
+<p style="font-size:7px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
