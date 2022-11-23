@@ -13,7 +13,7 @@ Human activities on earth have caused rapid changes on land cover over the last 
 #### Skill used: Python, Keras, CNN, VGG16
 
 
-### [Identifying and Classifying Informal Settlements in Argentina](/pdf/Identifying and Classifying Informal Settlements in Argentina.pdf)
+### [Identifying and Classifying Informal Settlements in Argentina](/pdf/Identifying_and_Classifying_Informal_Settlements_in_Argentina.pdf)
 
 In the past few decades urbanization has been bringing a large number of new residents to cities. This rapid urban expansion caused the inadequate developments of infrastructure, such as affordable housing, public transport and utilities. Informal settlements known as slums emerged which had inadequate infrastructure and insufficient living areas inhabited by low-income urban residents.
 
