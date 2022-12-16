@@ -33,14 +33,6 @@ A bike share program is a shared transport service in which bicycles are made av
 
 #### Skill used: R, Linear Regressions
 
-
-### [Gentrification Prediction in Philadelphia](pdf/gentrification-prediction-in-philadelphia.html)
-
-I built a geospatial risk model in R that predicts gentrification in Philadelphia. Gentrification is displacement of long term residents in neighborhoods who are "priced out" by the new cash flow and attraction of the area. Predictors such as Starbucks locations, eviction filings and grocery store access are used in my model.
-
-<img src="images/gentrification in philadelphia.png?raw=true"/>
-
-#### Skill used: R, Poisson Regression
 ---
 
 ### Spatial Analytics with Google Earth Engine
